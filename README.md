@@ -43,25 +43,25 @@
 ## Results
 #### CNN models with different optimizers: 
 
-- ![1__osB82GKHBOT8k1idLqiqA (1)](https://user-images.githubusercontent.com/46133803/116205363-4e276800-a75b-11eb-8712-023ddc77c741.gif)
+ ![1__osB82GKHBOT8k1idLqiqA (1)](https://user-images.githubusercontent.com/46133803/116205363-4e276800-a75b-11eb-8712-023ddc77c741.gif)
 
 #### 5-layer model: 
 
-- ![5L model](https://user-images.githubusercontent.com/46133803/116205527-7c0cac80-a75b-11eb-9bfa-635cf945f79e.GIF)
+ ![5L model](https://user-images.githubusercontent.com/46133803/116205527-7c0cac80-a75b-11eb-9bfa-635cf945f79e.GIF)
 
 #### CNN model loss function: 
 
-- ![graph](https://user-images.githubusercontent.com/46133803/116205788-b7a77680-a75b-11eb-9316-9b54fea0a81a.png)
+ ![graph](https://user-images.githubusercontent.com/46133803/116205788-b7a77680-a75b-11eb-9316-9b54fea0a81a.png)
 
 ## Demo
 
-- Web Application: 
+#### Web Application: 
 
  ![anvil lappy](https://user-images.githubusercontent.com/46133803/116205633-9181d680-a75b-11eb-960f-af577075cf86.GIF)
  ![o1](https://user-images.githubusercontent.com/46133803/116205093-06a0dc00-a75b-11eb-9d0d-4d04b0b01ebc.png)
  ![o5](https://user-images.githubusercontent.com/46133803/116205126-0e608080-a75b-11eb-85d0-ccd77133f8be.png)
 
-- Misclassification representation: 
+#### Misclassification representation: 
 
  ![mis2](https://user-images.githubusercontent.com/46133803/116205889-d443ae80-a75b-11eb-849e-beaf03d8a53a.GIF)
  ![mis3](https://user-images.githubusercontent.com/46133803/116205904-d60d7200-a75b-11eb-922e-37720117b5ed.GIF)
